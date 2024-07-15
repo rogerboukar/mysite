@@ -1,0 +1,44 @@
+body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: Arial, sans-serif;
+    }
+
+.custom-header {
+      background-color: white;
+      padding: 0;
+      margin-top: 0;
+      text-align: center;
+}
+
+.first-section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 30vh;
+      background-color: brown;
+    }
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+.second-section {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 70vh;
+      width: 200vh;
+;
+}
+.p1{
+      text-align: center;
+      padding: 20px;
+      margin: 10px;
+      width: 650px;
+}
+.figure-img{
+      padding: 10px;
+}
